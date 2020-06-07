@@ -1,0 +1,22 @@
+{
+  "name": "c-shopmall",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "errorhandler": "^1.5.1",
+    "express": "^4.17.1",
+    "express-react-views": "^0.11.0",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
